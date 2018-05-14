@@ -62,7 +62,7 @@ public final class TkDump implements Take {
      */
     public TkDump(final Farm frm) {
         this.authorized = Sets.newHashSet(
-            "g4s8", "t-izbassar", "yegor256"
+            "g4s8", "t-izbassar", "yegor256", "krzyk"
         );
         this.farm = frm;
     }
